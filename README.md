@@ -1,7 +1,5 @@
 # Tableau-Project
 
-
-![슬라이드1](https://github.com/2unse0/Tableau-Project/assets/115604707/3014004d-2fbf-4780-bb7e-e6536985d94e)
 ![슬라이드2](https://github.com/2unse0/Tableau-Project/assets/115604707/78f9258b-50e6-49db-8527-5e5650756b7a)
 ![슬라이드3](https://github.com/2unse0/Tableau-Project/assets/115604707/2833c481-a923-4c0d-9666-83d0b3cd2ac9)
 ![슬라이드4](https://github.com/2unse0/Tableau-Project/assets/115604707/5946f659-6bc3-4ce7-91a6-c89c780b703d)
